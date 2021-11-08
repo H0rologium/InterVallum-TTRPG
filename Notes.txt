@@ -1,0 +1,73 @@
+Stat list:
+PSI
+Mental
+Intelligence
+Strength
+Dexterity
+Charisma
+Street Smarts
+Pilot
+Technology
+Heal/Repair
+Perception
+
+============Current skills list ==========================
+
+Piloting (pilot)
+Persuasion (charisma)
+Deception (charisma)
+Intimidation (cha or strength)
+Alchemy (intelligence or street smarts)
+Athletics (strength or grit)
+Agility (dexterity or Pilot)
+Endurance (grit)
+Medicine (heal/repair or intelligence)
+Hacking (Technology)
+Mechanical (intelligence)
+Ship Mechanical (technology)
+Investigation (intelligence or perception)
+Shooting (dexterity or perception or pilot or PSI)
+Melee (dexterity or strength or pilot or PSI)
+Endurance (grit)
+Performance (charisma, dexterity)
+Mind-read (PSI)
+Mind-Write(PSI)
+Sanity (mental)
+Stealth (dexterity or pilot)
+Infiltration (charisma, dexterity, strength, intelligence, pilot)
+Insight (street smarts)
+Nature (intelligence, street smarts)
+Survival (street smarts)
+=========================================================
+
+ship size tier
+
+fighter
+shuttle
+frigate
+hauler
+cruiser
+battleship
+star vessel
+capital vessel
+station
+
+Common damage types
+Slashing
+Whacking
+Stabbing
+Vacuum
+Suffocation
+Piercing
+Force
+Heat
+Cold
+Electrical
+Poison
+
+neophyte - new thing
+embryophyte - plants where embryo is retained within maternal tissue.
+phanero- flying
+gameto - spore spreader
+psilophyte - adapted for survival
+archaeophyte - leaders

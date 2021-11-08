@@ -1,0 +1,32 @@
+-Added the Aquiia
+-Added mechs to manifest of items and effects (under vehicles)
+-Adjusted values for Turbo
+-Updated wording in ammunition fields
+-Added cybernetics
+-Added more armor
+-Moved AMR into the proper category, added new weapons.
+-Updated M.E.C.H
+-Updated Pilot Abilities, primarily Boldness and Pilot Master
+-Fixed missing text in Pilot Abilities
+-Reworded ability in Acquiia to avoid confusion on skill changes
+-Reworded human optional choice to make more sense on what is given
+-Reworded synth facade to reflect the fact that some races are no longer humanoid or humanlike
+-Reworded many of the soldier abilities to make more sense, as some referenced outdated information
+-Fixed loophole with ghost that allowed for instant kills using Guard Down
+-Updated engineer text to align with the new ship hull system
+-Updated barricade ability from engineer to properly use stamina
+-Nerfed roboticist's control ability by 1d6 rounds
+-Changed scrape bonus from EAF level 13 to be a bonus to durability instead
+-Fixed wording in tracker abilitie(s)
+-Redone tracker's level 20 ability
+-Changed Identify Yourself to ignore roll-stacking
+-Reworded Agent Sabetour to reflect the new obstacle system (outdated since 1.3)
+-Changed tecnomancer's C-link to prevent being able to garuntee attack rolls hitting infinitely
+-Technomancer's Cheat the System now requires a reaction to use
+-Nerfed Technomancer's heightened intelligence to allow Agent's similar feature to shine more
+-Nerfed Technomancer's Aimbot to not be spammable creating unloseable combat situations (however it may be stackable)
+-Slightly adjusted Psychotic's health growth
+-Changed Psychotic's 'Super Crazy Attack' to specify range.
+-Reworked Psychotic's 'Gone' ability into 'Super Ultra Random Crazy'
+-Reworked perk costs
+-

@@ -1,0 +1,9 @@
+-Aimed shots use a perception skill instead of dexterity
+-Fix stamina in pilot intro 
+-Change plated civilian armor into armored civ clothing
+-Added languages to folormians
+-Change strength to add to melee DMG.
+-Healing with heal / repair and a negative modifier subtracts double that mod from amount healed
+-Trained sets neg mods to 0
+-Civ clothing only for melee weapons 
+-Engineer robot mimic abilities????
