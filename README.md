@@ -1,7 +1,7 @@
 # InterVallum-TTRPG
 A tabletop roleplaying game set in the stage of space
 <br>
-![Cost to use](https://img.shields.io/badge/price-0-yellow)
+![Cost to use](https://img.shields.io/badge/price-$0-yellow)
 <br>
 This is a d20 system I have created and updated over time. This is a d20 system where players' classes are (at least in theory) designed to be heavy specialists.
 This means that each class lets a player do one or two things very well, but may be lacking in the other skillset areas. The idea behind this design is unlike 
